@@ -1,0 +1,21 @@
+{
+  "name": "react-auth-w-firebase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently --kill-others \"cd frontend && npm start\" \"cd backend && npm start\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SurgamSurgam/React-Auth-W-Firebase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SurgamSurgam/React-Auth-W-Firebase/issues"
+  },
+  "homepage": "https://github.com/SurgamSurgam/React-Auth-W-Firebase#readme",
+  "description": ""
+}
